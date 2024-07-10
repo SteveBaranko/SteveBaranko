@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SteveBaranko
-- 👀 I’m interested in advancing my software engineering resume
-- 🌱 I’m currently learning data structures, logic design, and systems programming
-- 💞️ I’m looking to collaborate on college sophomore level projects in C, Java, or Python
+- 👀 I’m a motivated developer looking for a Junior position. Tons of experience in C, C++, Frontend, and Python
 - 📫 stevencb22@gmail.com
 
 <!---
