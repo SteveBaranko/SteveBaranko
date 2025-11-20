@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SteveBaranko
-- 👀 I’m a CS grad from the University of Notre Dame: Currently open to new opportunities
+- 👀 I'm a data analyst from the Midwest
 - 📫 steven.baranko@gmail.com
 
 <!---
